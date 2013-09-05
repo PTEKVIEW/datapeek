@@ -1,0 +1,6 @@
+## Useful commannds
+#For basic packaging
+mvn package
+#For eclipse proj creation
+mvn eclipse:eclipse
+mvn eclipse:eclipse -DdownloadSources=true -DdownloadJavadocs=true
